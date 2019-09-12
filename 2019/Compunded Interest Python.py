@@ -14,3 +14,4 @@ print ("You will get:",ci, 'in return')
 ci= int(ci)
 cit= p+ci
 print ("You will then have a total of:",cit, 'available')
+input ('Press ENTER to exit')
