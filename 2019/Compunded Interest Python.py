@@ -10,7 +10,7 @@ r= (r/100)+1
 
 ci= p*((r**n)-1)
 
-print ("You will get:",ci, 'in return')
+print ("You will earn:",ci, 'in return')
 ci= int(ci)
 cit= p+ci
 print ("You will then have a total of:",cit, 'available')
