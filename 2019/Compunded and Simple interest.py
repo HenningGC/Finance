@@ -1,6 +1,8 @@
-Choose= input("What type of interest would you like to calculate: \n 'Compounded or Simple? ")
+#This script allows you to both calculate simple interest and compound interest. The user is able to choose either or.
+#Created on the 13th of September 2019
+Choose= input("What type of interest would you like to calculate: \n 'Compound or Simple? ")
 
-if Choose == "compounded" or "Compounded":
+if Choose == "compound" or "Compound":
     print("You have chosen Compounded Interest")
     p = input('Enter value of Principle ')
     n = input('Enter value of Years ')
