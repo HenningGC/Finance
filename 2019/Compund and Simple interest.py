@@ -3,7 +3,7 @@
 Choose= input("What type of interest would you like to calculate: \n 'Compound or Simple? ")
 
 if Choose == "compound" or "Compound":
-    print("You have chosen Compounded Interest")
+    print("You have chosen Compound Interest")
     p = input('Enter value of Principle ')
     n = input('Enter value of Years ')
     r = input('Enter value of Interest Rate ')
