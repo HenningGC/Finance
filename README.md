@@ -6,4 +6,4 @@ The main objective of this repository is to show how much progress I have made s
 I also consider that it is of paramount importance for me to demonstrate how committed I am to FinTech, General Finance and Coding.
 
 # Updates
-I will keep on updating this README as time goes on.
+I will keep on updating this README as the time goes on.
