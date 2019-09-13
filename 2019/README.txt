@@ -1,1 +1,1 @@
-Python programs related to finance created in 2019.
+Python scripts related to finance created in 2019.
